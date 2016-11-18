@@ -1,14 +1,13 @@
 {
-  "name": "nodejs_demo",
+  "name": "nodejs",
   "description": "A fabulous new cookbook",
   "long_description": "",
-  "maintainer": "YOUR_COMPANY_NAME",
-  "maintainer_email": "YOUR_EMAIL",
+  "maintainer": "Wes Turner",
+  "maintainer_email": "wturnerharris@gmail.com",
   "license": "none",
   "platforms": {
   },
   "dependencies": {
-    "application_javascript": "~> 1.0.0"
   },
   "recommendations": {
   },
